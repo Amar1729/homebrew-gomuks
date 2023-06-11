@@ -1,8 +1,8 @@
 class Gomuks < Formula
   desc "Terminal Matrix client written in Go"
   homepage "https://github.com/tulir/gomuks"
-  url "https://github.com/tulir/gomuks/archive/v0.2.3.tar.gz"
-  sha256 "a21dc27175abe1f6ec220dda71cec69f6abc982f60237e35100a366934fd9185"
+  url "https://github.com/tulir/gomuks/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "0710a63cc3ec9a4f525510497ba64aa94170498eb536411d089871f336d99ab4"
   license "AGPL-3.0"
 
   bottle do
